@@ -7,3 +7,9 @@
 ```cs
 Console.WriteLine($"Hello GitHub!");
 ```
+
+Here's some stuff to do
+
+- [ ] Whee
+- [ ] Wheee
+- [ ] Wheeee
